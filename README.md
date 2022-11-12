@@ -8,6 +8,8 @@
 <br>
 <p>Halo! Saya seorang programmer perempuan asal <a href="https://id.wikipedia.org/wiki/Kabupaten_Karawang">Karawang</a>. Hobi saya membuat bot, website CRUD sederhana, menerjemahkan <a href="https://id.wikipedia.org/wiki/Bahasa_Inggris">bahasa Inggris</a> ke dalam <a href="https://id.wikipedia.org/wiki/Bahasa_Indonesia">bahasa Indonesia</a>, dan mencoba hal-hal baru. Suka mempelajari dan menggunakan <a href="https://id.wikipedia.org/wiki/JavaScript">JavaScript</a> dibanding <a href="https://en.wikipedia.org/wiki/TypeScript">TypeScript</a>.</p>
 
+<br>
+
 <h3>Bahasa yang digunakan</h3>
 <div>
    <a href="https://id.wikipedia.org/wiki/HTML5"><img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" /></a>
