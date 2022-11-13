@@ -5,7 +5,7 @@
    <a href="https://discord.gg/TBAQ4UwsXK"><img src="https://img.shields.io/badge/ry%235007-%235865F2.svg?style=flat&logo=discord&logoColor=white" /></a>
    <a href="mailto:nykdnrt@gmail.com"><img src="https://img.shields.io/badge/nykdnrt@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </div>
-<img src="https://raw.githubusercontent.com/nykdnrt/nykdnrt/main/me.jpg" align="right" width="300px" />
+<img src="https://raw.githubusercontent.com/nykdnrt/nykdnrt/main/me.jpg" align="right" width="200px" />
 <p>Halo! Saya seorang programmer perempuan asal <a href="https://id.wikipedia.org/wiki/Kabupaten_Karawang">Karawang</a>. Hobi saya membuat bot, website CRUD sederhana, menerjemahkan <a href="https://id.wikipedia.org/wiki/Bahasa_Inggris">bahasa Inggris</a> ke dalam <a href="https://id.wikipedia.org/wiki/Bahasa_Indonesia">bahasa Indonesia</a>, dan mencoba hal-hal baru. Suka mempelajari dan menggunakan <a href="https://id.wikipedia.org/wiki/JavaScript">JavaScript</a> dibanding <a href="https://en.wikipedia.org/wiki/TypeScript">TypeScript</a>. Memulai perjalanan sebagai programmer sejak tahun 2019.</p>
 
 <br>
